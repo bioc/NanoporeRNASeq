@@ -1,7 +1,7 @@
 Package: NanoporeRNASeq
 Type: Package
 Title: Nanopore RNA-Seq Example data
-Version: 1.24.0
+Version: 1.25.0
 Authors@R: c(person("Jonathan", "Goeke", role = "aut",
                     email = "Jonathan_GOEKE@a-star.edu.sg"),
             person("Ying", "Chen", role = "cre",
